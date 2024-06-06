@@ -1,6 +1,11 @@
+
+
+[![DOI](https://zenodo.org/badge/810518013.svg)](https://zenodo.org/doi/10.5281/zenodo.11508502)
+
+
 # repository for the pyrates workshop for the bloom_nobloom project.
 
-This repository was created on June 4, 2024 as a part of the [PyRates workshop](https://linked.earth/FROGS) in Marina del Rey, CA.
+This repository was created on June 6, 2024 as a part of the [PyRates workshop](https://linked.earth/FROGS) in Marina del Rey, CA.
 
 
 | Step  | In/Out | Code |
